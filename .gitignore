@@ -17,3 +17,4 @@ outputs/
 .venv/
 .env/
 .virtual_documents/
+.virtual_documents/
